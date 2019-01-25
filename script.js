@@ -101,3 +101,5 @@ return false;
 function minimax(newBoard, player) {
     var availSpots = emptySquares(newBoard);
 }
+
+/* it will be continued */
